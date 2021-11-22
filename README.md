@@ -1,5 +1,6 @@
 # PIA---Repositorio-en-GitHub
 Repositorio para alojar el Producto Integrador de Aprendizaje (PIA)
+Dentro de este repositorio se encuentran 5 archivos que fueron algunas de nuestras tareas en el semestre en la materia de Laboratorio de programacion para ciberseguridad.
 
 --LPCT02_1727912.zip
   El archivo contiene un script en PowerShell que tiene tres funciones:
@@ -17,7 +18,7 @@ Repositorio para alojar el Producto Integrador de Aprendizaje (PIA)
     .Tipo de Sistema Operativo
     
 --Tarea4-1727912.zip
-  El archivo contiene un script en python para realizar WebScraping y extraer metadatos usando el sitio Fake Jobs.
+  El archivo contiene un script en python para realizar WebScraping y extraer metadatos usando el sitio Fake Jobs y guarda los resultados en un archivo .csv
   
  
 --Tarea6_1727912.zip
